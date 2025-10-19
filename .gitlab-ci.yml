@@ -11,4 +11,4 @@ stages:
 ping:
   stage: test
   script:
-    - echo "Runner OK on $(date)"
+    - echo "Runner ок on $(date)"
