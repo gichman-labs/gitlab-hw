@@ -1,0 +1,8 @@
+﻿stages: [test]
+
+ping:
+  stage: test
+  image: alpine:latest
+  tags: [docker, local]
+  script:
+    - echo "Runner OK on 10/19/2025 17:40:21"
