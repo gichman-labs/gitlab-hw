@@ -6,11 +6,12 @@
 ### Задание 1
 
 
-![1](https://drive.google.com/file/d/126w5V-RcObg11KlDIH1uyenhu-A8trwS/view?usp=sharing)`
-![2](https://drive.google.com/file/d/1-aVSrlS1blszJCwQ4G1JchEkoBtw3ldB/view?usp=sharing)`
-![3](https://drive.google.com/file/d/1_7jbKDMODFLlaJHdJvdzuk3A2TUHff0p/view?usp=sharing)`
-![4](https://drive.google.com/file/d/1-0nU005bfhoffIW2oAFE8WpFmYjxVwyD/view?usp=sharing)`
-![5](https://drive.google.com/file/d/14cJCX8QBHvuIpz8rsbdvDzd7rRSVEEqp/view?usp=sharing)`
+![1](./img/101.png)
+![2](./img/102.png)
+![3](./img/103.png)
+![4](./img/104.png)
+![5](./img/105.png)
+
 
 
 ---
