@@ -1,7 +1,7 @@
-﻿stages: [test]
+stages: [test]
 
 ping:
   stage: test
   image: alpine:latest
   script:
-    - echo "Runner OK on $(date)"
+    - echo "Runner OK on $(date)
