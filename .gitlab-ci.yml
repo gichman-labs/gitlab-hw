@@ -1,8 +1,14 @@
-﻿stages:
+﻿workflow:
+  rules:
+    - when: always
+
+default:
+  image: alpine:latest
+
+stages:
   - test
 
 ping:
   stage: test
-  image: alpine:latest
   script:
     - echo "Runner OK on $(date)"
