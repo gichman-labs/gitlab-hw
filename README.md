@@ -5,25 +5,12 @@
 
 ### Задание 1
 
-`Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![1](https://drive.google.com/file/d/126w5V-RcObg11KlDIH1uyenhu-A8trwS/view?usp=sharing)`
+![2](https://drive.google.com/file/d/1-aVSrlS1blszJCwQ4G1JchEkoBtw3ldB/view?usp=sharing)`
+![3](https://drive.google.com/file/d/1_7jbKDMODFLlaJHdJvdzuk3A2TUHff0p/view?usp=sharing)`
+![4](https://drive.google.com/file/d/1-0nU005bfhoffIW2oAFE8WpFmYjxVwyD/view?usp=sharing)`
+![5](https://drive.google.com/file/d/14cJCX8QBHvuIpz8rsbdvDzd7rRSVEEqp/view?usp=sharing)`
 
 
 ---
