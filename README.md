@@ -1,4 +1,4 @@
-# 8.3 GitLab — Домашнее задание - `Avvakumov Oleg`
+# 8.3 GitLab — Домашнее задание - `A. Oleg`
 
 
 ---
